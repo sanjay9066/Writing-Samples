@@ -2,7 +2,7 @@
 
 Welcome to my **Writing Samples** repository! I'm **Sanjay Pramanik**, a Senior Technical Writer with 11 years of experience turning complex technical concepts into clear, user-friendly documentation.
 
-This repo is a curated collection of my writing work across different industries including **semiconductors, software, and automotive**. It showcases my expertise in technical writing, UX writing, and content automation.
+This repo is a curated collection of my writing work across different industries including **semiconductors, software, and automotive**. It showcases my expertise in technical writing.
 
 ## 📂 What's Inside
 
@@ -15,7 +15,6 @@ You'll find samples from various document types:
 - 🧪 **Release Notes**
 - 💬 **UX Microcopy**
 - 📚 **FAQs and Knowledge Base Articles**
-- 🧰 **Automation Scripts & AI-Aided Writing Examples**
 
 ## 🛠 Tools & Technologies Used
 
